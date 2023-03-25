@@ -27,7 +27,7 @@ function submit()
 
    function search()
    {
-    var s=document.getElementById("Search_names").value;
+    var s=document.getElementById("Search_name").value;
     var found=0;
     var j;
 
